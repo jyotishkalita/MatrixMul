@@ -1,0 +1,10 @@
+# Build output directories
+build/
+bin/
+
+# macOS / OS generated files
+.DS_Store
+
+# Executables
+*.o
+matrix_mul
